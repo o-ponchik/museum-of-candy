@@ -38,6 +38,11 @@ body {
   color: #ea1c2c;
 }
 
+.navbar.scrolled {
+  background-color: #dba8d4;
+  transition: background-color 250ms;
+}
+
 #headingGroup span {
   color: #ea1c2c;
 }
